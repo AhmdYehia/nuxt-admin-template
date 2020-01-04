@@ -2,7 +2,7 @@
 
 > A basic nuxt admin template with Element UI & Vuex & Auth Middleware & lint
 
-**Live demo:** (http://oravil.com)
+**Live demo:** (https://nuxt-admin-54ad9.firebaseapp.com/)
 
 ##This Template Built bassed [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
